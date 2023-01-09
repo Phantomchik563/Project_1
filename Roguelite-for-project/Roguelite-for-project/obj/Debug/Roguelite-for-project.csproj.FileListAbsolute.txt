@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\bin\Debug\Roguelite-for-project.exe.config
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\bin\Debug\Roguelite-for-project.exe
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\bin\Debug\Roguelite-for-project.pdb
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite-for-project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite-for-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite_for_project.Properties.Resources.resources
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite-for-project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite-for-project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite-for-project.exe
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite-for-project.pdb
+C:\Users\User\source\repos\Roguelite-for-project\Roguelite-for-project\obj\Debug\Roguelite_for_project.MainForm.resources
